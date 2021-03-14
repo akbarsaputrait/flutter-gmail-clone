@@ -1,4 +1,4 @@
-# gmail_clone_app
+# Flutter UI - Gmail app
 
 A Gmail UI Clone App
 
