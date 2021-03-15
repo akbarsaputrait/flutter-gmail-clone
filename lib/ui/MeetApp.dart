@@ -59,8 +59,8 @@ class _MeetApp extends State<MeetApp> {
                           decoration: BoxDecoration(
                             shape: BoxShape.circle,
                             color: _current == index
-                                ? Color.fromRGBO(0, 0, 0, 0.9)
-                                : Color.fromRGBO(0, 0, 0, 0.4),
+                                ? Colors.blue
+                                : Colors.blue[300],
                           ),
                         );
                       }).toList(),
