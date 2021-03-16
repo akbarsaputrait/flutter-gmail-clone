@@ -98,7 +98,7 @@ class _MeetApp extends State<MeetApp> {
         text: TextSpan(
           style: TextStyle(fontSize: 14.0, color: Colors.black),
           children: <TextSpan>[
-            TextSpan(text: 'To'),
+            TextSpan(text: 'Tap'),
             TextSpan(
                 text: ' New Meeting ',
                 style: TextStyle(fontWeight: FontWeight.bold)),
